@@ -1,0 +1,118 @@
+{
+  "node": {
+    "0be747fa77bfd16b3dbfdabe2a63d152e1326535": {
+      "workers": {
+        "app/sales/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Csale.ts%22%2C%5B%22getRecentSales%22%2C%22createSale%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/sales/new/page": "action-browser"
+      }
+    },
+    "315cf1ca6c3c583ee43a05a59ca5a5941988eb3b": {
+      "workers": {
+        "app/sales/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Csale.ts%22%2C%5B%22getRecentSales%22%2C%22createSale%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/sales/new/page": "action-browser"
+      }
+    },
+    "33a7ddaf77986d6307daa816d28118f6a98235a8": {
+      "workers": {
+        "app/inventory/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cproduct.ts%22%2C%5B%22getProducts%22%2C%22getLowStockProducts%22%2C%22createProduct%22%2C%22deleteProduct%22%2C%22updateProduct%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/inventory/page": "action-browser"
+      }
+    },
+    "37fb12fc53cfdaf46750b1a32e091d573b366955": {
+      "workers": {
+        "app/inventory/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cproduct.ts%22%2C%5B%22getProducts%22%2C%22getLowStockProducts%22%2C%22createProduct%22%2C%22deleteProduct%22%2C%22updateProduct%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/inventory/page": "action-browser"
+      }
+    },
+    "64020b3ad36fdf97b965d6a31e251ab52ad8a2a7": {
+      "workers": {
+        "app/inventory/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cproduct.ts%22%2C%5B%22getProducts%22%2C%22getLowStockProducts%22%2C%22createProduct%22%2C%22deleteProduct%22%2C%22updateProduct%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/inventory/page": "action-browser"
+      }
+    },
+    "adb46ea4e81b9e1bb4f2a0ef4c778191f5416ae6": {
+      "workers": {
+        "app/inventory/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cproduct.ts%22%2C%5B%22getProducts%22%2C%22getLowStockProducts%22%2C%22createProduct%22%2C%22deleteProduct%22%2C%22updateProduct%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/inventory/page": "action-browser"
+      }
+    },
+    "caa7c22b9fc0173e074e89bdca25a731f055ef83": {
+      "workers": {
+        "app/inventory/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cproduct.ts%22%2C%5B%22getProducts%22%2C%22getLowStockProducts%22%2C%22createProduct%22%2C%22deleteProduct%22%2C%22updateProduct%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/inventory/page": "action-browser"
+      }
+    },
+    "29a287cf7646b6faa1662221a7d3929cbbce947b": {
+      "workers": {
+        "app/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Ccustomer.ts%22%2C%5B%22getCustomers%22%2C%22deleteCustomer%22%2C%22createCustomer%22%2C%22updateCustomer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/customers/page": "action-browser"
+      }
+    },
+    "60767c0b91ffbb4dd0ebc757ae7c28ca547cf584": {
+      "workers": {
+        "app/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Ccustomer.ts%22%2C%5B%22getCustomers%22%2C%22deleteCustomer%22%2C%22createCustomer%22%2C%22updateCustomer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/customers/page": "action-browser"
+      }
+    },
+    "a15ec28afef58cd7a988e56115dfbdb9b267954d": {
+      "workers": {
+        "app/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Ccustomer.ts%22%2C%5B%22getCustomers%22%2C%22deleteCustomer%22%2C%22createCustomer%22%2C%22updateCustomer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/customers/page": "action-browser"
+      }
+    },
+    "c2cafe68338b338653ebb892b2294f67b236d9b2": {
+      "workers": {
+        "app/customers/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Ccustomer.ts%22%2C%5B%22getCustomers%22%2C%22deleteCustomer%22%2C%22createCustomer%22%2C%22updateCustomer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/customers/page": "action-browser"
+      }
+    },
+    "431b0102eb838fec2d04e8d7e883a0d19e213760": {
+      "workers": {
+        "app/expenses/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cexpense.ts%22%2C%5B%22deleteExpense%22%2C%22createExpense%22%2C%22getExpenses%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/expenses/page": "action-browser"
+      }
+    },
+    "5bb2e45391c867bd731682684149aa20a069314e": {
+      "workers": {
+        "app/expenses/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cexpense.ts%22%2C%5B%22deleteExpense%22%2C%22createExpense%22%2C%22getExpenses%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/expenses/page": "action-browser"
+      }
+    },
+    "fd7331c2a756e02ba09edc71deb66e1642f4ac7c": {
+      "workers": {
+        "app/expenses/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cmubas%5C%5CDesktop%5C%5CPOS-SAYYAMSTORE%5C%5Csrc%5C%5Cactions%5C%5Cexpense.ts%22%2C%5B%22deleteExpense%22%2C%22createExpense%22%2C%22getExpenses%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/expenses/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "E6U1izi2MfEzCIM5QhcaR9ZemW5tkXhv5Y27sBC+/8g="
+}
